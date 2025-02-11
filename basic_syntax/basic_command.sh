@@ -6,3 +6,13 @@ git commit -m "메세지"
 
 # 원격 repo에 main브랜치 변경사항(commitID)을 업로드
 git push orgin main
+
+git status
+
+git add 특정파일(위치포함)
+
+git commit -m "메시지타이틀" -m "메시지내용"
+
+git commit 엔터
+
+
