@@ -27,4 +27,6 @@ git log --graph
 
 git log --all
 
+git push origin main --froce
+
 
