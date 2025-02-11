@@ -11,8 +11,20 @@ git status
 
 git add 특정파일(위치포함)
 
+git add . 
+
 git commit -m "메시지타이틀" -m "메시지내용"
 
 git commit 엔터
+
+git commit -am "add와 commit와 동시에"
+
+git log
+
+git log --oneline
+
+git log --graph
+
+git log --all
 
 
