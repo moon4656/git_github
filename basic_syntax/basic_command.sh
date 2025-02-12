@@ -27,4 +27,8 @@ git log --graph
 
 git log --all
 
+git checkout 체크id
+
+git checkout 브렌치id
+
 
