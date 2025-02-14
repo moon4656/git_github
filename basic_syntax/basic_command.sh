@@ -28,5 +28,8 @@ git log --graph
 git log --all
 
 git push origin main --froce
+git checkout 체크id
+
+git checkout 브렌치id
 
 
